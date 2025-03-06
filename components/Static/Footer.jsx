@@ -104,7 +104,7 @@ export default function Footer() {
                                 </p>
                         </div>
                         <p className="text-white text-center sm:text-right text-opacity-50">
-                            {"Powered by AsTrazu Team ❤️"}
+                            {"Powered by MusicMaker ❤️"}
                         </p>
                     </div>
                 </div>
